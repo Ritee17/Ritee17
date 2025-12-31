@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there! I'm Ritee 👋
 
-<!--
-**Ritee17/Ritee17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Engineer and Student** passionate about teaching machines to understand language. My focus is on **Deep Learning** and **Natural Language Processing (NLP)**. I love bridging the gap between traditional ML models and modern LLM frameworks like LangChain.
 
-Here are some ideas to get you started:
+I am currently looking for **Internship opportunities** where I can solve real-world problems using AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+* **Languages:** Python, Java
+* **Deep Learning:** TensorFlow, Keras, ANN, LSTM
+* **Machine Learning:** Scikit-learn, Pandas, NumPy
+* **Modern AI:** LangChain, NLP, LLM Integration
+
+---
+
+### 🔭 What I'm Working On
+
+* Building advanced **NLP applications** using **LangChain**.
+* Developing custom **Neural Networks (ANN & LSTM)** for predictive modeling.
+* Deepening my understanding of **Generative AI** workflows.
+
+---
+
+### 📫 Let's Connect
+
+* [LinkedIn]([Link to your LinkedIn profile](https://www.linkedin.com/in/ritee-/))
