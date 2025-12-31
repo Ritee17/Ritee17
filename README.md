@@ -25,4 +25,4 @@ I am currently looking for **Internship opportunities** where I can solve real-w
 
 ### 📫 Let's Connect
 
-* [LinkedIn]([https://www.linkedin.com/in/ritee-/])
+* [LinkedIn](https://www.linkedin.com/in/ritee-/)
